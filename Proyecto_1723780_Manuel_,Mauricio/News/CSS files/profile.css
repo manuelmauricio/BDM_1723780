@@ -1,0 +1,57 @@
+p{
+	font-size:200%;
+	font-weight:500;
+	color: #000000;
+	margin-top: 10px;
+}
+
+img{
+	margin-bottom: 10px;
+
+}
+
+.btn.btnlike {
+  background-color: #44566c;
+  font-weight: 400;
+  font-size: 120%;
+  color: #FFFFFF;
+  padding: 1px 6px;
+}
+
+
+.btn.btnlike:hover{
+background-color: #D150E1;
+color: #FFFFFF;
+}
+
+
+
+.btn.btnconfig {
+  background-color: #44566c;
+  font-weight: 400;
+  font-size: 120%;
+  color: #FFFFFF;
+  padding: 1px 6px;
+}
+
+
+.btn.btnconfig:hover{
+background-color: #45A29E;
+color: #FFFFFF;
+}
+
+
+.btn.btneliminar {
+  background-color: #44566c;
+  font-weight: 400;
+  font-size: 120%;
+  color: #FFFFFF;
+  padding: 1px 6px;
+}
+
+
+.btn.btneliminar:hover{
+background-color: #B61900;
+color: #FFFFFF;
+}
+

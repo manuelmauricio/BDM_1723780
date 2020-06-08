@@ -1,0 +1,247 @@
+.login-container{
+    margin-top: 0%;
+    margin-bottom: 5%;
+}
+.login-form-1{
+    padding: 2%;
+    background: #45A29E;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+.login-form-1 h3{
+    text-align: center;
+    color: #17252a;
+    font-weight: 900;
+    font-size: 200%;
+    margin-top: 5%;
+    margin-bottom: 12%;
+}
+
+
+.login-form-1 li:before {   
+    content: "";  
+    border-color: transparent #17252a;  
+    border-style: solid;  
+    border-width: 0.35em 0 0.35em 0.45em;  
+    display: block;  
+    height: 0;  
+    width: 0;  
+    left: -1em;  
+    top: 1.2em;  
+    position: relative;  
+} 
+
+.login-form-1 li{
+text-align: left;
+color: #17252a;
+font-weight: 600;
+font-size: 110%;
+}
+
+.login-form-1 ul{
+    margin: 0.75em 0;  
+    padding: 0 1em;  
+    list-style: none;  
+      margin-top: 0%;
+}
+
+
+.login-form-1 p{
+text-align: left;
+color: #17252a;
+font-weight: 600;
+font-size: 150%;   
+ margin-bottom: 0%;
+  margin-top: 0%;
+}
+
+.login-form-2 img{
+  display: block;
+  margin-left: 90%;
+   margin-top: 3%;
+  margin-right: auto;
+  margin-bottom: 0%;
+}
+
+
+.login-form-2{
+    padding: 0%;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+    background: #17252a;
+}
+
+
+.login-form-2 h3{
+
+    text-align: left;
+    color: #fff;
+}
+
+
+.login-container form{
+    padding: 10%;
+}
+
+.labelform{
+    color: #201b22;
+
+font-weight: 600;
+font-size: 110%;
+}
+
+.text-muted{
+    color: #201b22;
+ margin-top: 0%;
+
+font-weight: 600;
+font-size: 85%;
+
+}
+
+
+.form-row{
+
+}
+
+
+.btnSubmit
+{
+    width: 30%;
+    border-radius: 0.2rem;
+   margin-bottom:5%;
+    border: none;
+    cursor: pointer;
+  background-color: #44566c;
+  font-weight: 500;
+  font-size: 130%;
+  color: #FFFFFF;
+  padding: 1px 6px;
+}
+
+.login-form-2 .btnSubmit{
+    font-weight: 600;
+    color: #FFFFFF;
+    font-size: 150%;
+    background-color: #45A29E;
+}
+
+.login-form-2 .form-control{
+color: #000000;
+font-weight: 600;
+font-size: 100%;
+  border-radius: 0.1rem;
+}
+
+
+
+/* Style the input container */
+.input-container {
+  display: flex;
+  width: 100%;
+  margin-bottom: 1px;
+}
+
+/* Style the form icons */
+.icon {
+  padding: 10px;
+  background: #44566c;
+  color: white;
+  min-width: 50px;
+  text-align: center;
+  border-radius: 0.0rem;
+  font-size: 100%;
+}
+
+/* Style the input fields */
+.input-field {
+  width: 100%;
+  outline: none;
+
+}
+
+.input-field:focus {
+ border: 2px solid dodgerblue;
+}
+
+
+.login-form-2 .ForgetPwd{
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+    margin: auto;
+
+}
+
+.btn-file {
+    margin: auto;
+    position: relative;
+     color: white;
+       background-color: #44566c;
+         border-radius: 0.0rem;
+}
+.form-group .form-groupx{
+
+
+}
+
+.form-group .form-groupy{
+
+
+}
+
+.form-group .form-groupz{
+      margin-top: 8%;
+     margin-left: 32%;
+
+}
+
+
+.btn-file input[type=file] {
+    position: absolute;
+
+    top: 10%;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    color: white;
+    background-color: #45A29E;
+    cursor: inherit;
+    display: block;
+}
+
+#img-upload{
+    width: 30%;
+    height: 30%;
+    margin-top: 5%;
+   margin-bottom: 2%;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+
+.fa .fx{
+  color:white;
+  font-size:27px;
+  margin-left:8px;
+}
+
+.toggle {
+  background: none;
+  border: none;
+  color: #17252a;
+  /*display: none;*/
+  /*font-size: .9em;*/
+  font-size: 120%;
+  font-weight: 600;
+  /*padding: .5em;*/
+  position: absolute;
+  right: 2%;
+  top: 40%;
+  z-index: 9;
+}
+

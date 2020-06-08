@@ -1,0 +1,33 @@
+.carousel-item{
+    height: 500px;
+    
+} 
+
+.carousel{
+  width: 60%;
+  margin: 0 auto;
+}
+
+div.c-wrapper{
+    width: 80%; /* for example */
+    margin: auto;
+}
+
+.carousel-item img {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+
+div.navbar-collapse{
+      padding: 0px;
+    margin: 0px; 
+}
+
+.carousel-caption{
+  background-color:#00000099;
+}
+

@@ -1,0 +1,200 @@
+
+/* Large rounded green border */
+hr.titlehr {
+  border-radius: 5px;
+  width:100%;
+}
+
+hr.relatedhr {
+  border-radius: 3px;
+  width:100%;
+}
+
+/* Large rounded green border */
+hr.new6 {
+  width:100%;
+  border-radius:0px;
+  border :100%
+}
+
+
+/* Large rounded green border */
+hr.menuhr {
+  width:100%;
+   margin-bottom: -20px;
+}
+
+hr.menuhrx {
+  width:80%;
+    padding: 0px;
+    margin: 0px;  
+    margin: auto;
+}
+
+hr.tophr {
+  width:100%; 
+   opacity: 0.3;
+}
+
+hr.topdate {
+  width:100%; 
+   opacity: 0.6;
+   margin-bottom: 7px;
+}
+
+hr.topdatedos {
+  width:100%; 
+   opacity: 0.6;
+   margin-top: 7px;
+}
+
+a.alink{
+	font-size: 100%;
+padding: 0.4em 0.4em;
+color:white;
+font-weight: 300;
+   opacity: 0.7;
+}
+
+
+
+.btn:focus, .btn:active, button:focus, button:active {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+#image-gallery .modal-footer{
+  display: block;
+}
+
+.thumb{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.img-thumbnail {
+width: 100%;   
+height: 13vw; 
+
+}
+
+
+
+
+.pb-video-container {
+        padding-top: 20px;
+        background: #ececec;
+    color: #44566c;
+    font-weight: 600;
+    font-size: 1.5em;
+       /* font-family: Lato;*/
+}
+
+.pb-video {
+        border: 1px solid #ececec;
+        padding: 5px;
+}
+
+
+.pb-video-frame {
+        transition: width 2s, height 2s;
+}
+
+
+.pb-row {
+        margin-bottom: 10px;
+  }
+
+
+label.label-warning{
+    font-weight: 400;
+    font-size: 70%;
+    color: #000000;
+}
+
+
+.btn.active {                
+  display: none;    
+}
+
+.btn span:nth-of-type(1)  {             
+  display: none;
+}
+.btn span:last-child  {             
+  display: block;   
+}
+
+.btn.active  span:nth-of-type(1)  {             
+  display: block;   
+}
+.btn.active span:last-child  {              
+  display: none;      
+}
+
+img.media-object{
+
+  margin-top: 12px;
+  margin-bottom: 12px;
+  margin-right : 20px;
+  margin-left: -2px;
+width: 7vw;  
+height: 7vw; 
+}
+
+
+h4.media-heading{
+margin-top: 20px;
+font-weight: 600;
+font-size: 150%;
+color: #201b22;
+}
+
+h5.media-subheading{
+margin-top: 10px;
+font-weight: 600;
+font-size: 120%;
+color: #201b22;
+}
+
+.radiox{
+display: none;
+}
+
+.btn.btnlike{
+    margin-left: 45vw;
+background-color: gray;
+font-weight: 600;
+font-size: 150%;
+color: #FFFFFF;
+}
+
+.btn.btndislike{
+      margin-left: 45vw;
+background-color: #E82038;
+    font-weight: 600;
+    font-size: 150%;
+    color: #FFFFFF;
+}
+
+p.liked{
+    margin-left: 42vw;
+    font-weight: 600;
+    font-size: 600%;
+    color: #2f435e;
+
+}
+
+.badge{
+  margin-top: 5px;
+  background-color: #44566c;
+    font-weight: 400;
+    font-size: 100%;
+    color: #FFFFFF;
+}
+
+.badge:hover{
+
+  background-color: #FFFFFF;
+
+    color: #44566c;
+}

@@ -1,0 +1,142 @@
+.detailBox {
+    width:100%;
+    border:2px solid #4b5e65;
+    margin:10px;
+}
+
+.titleBox {
+    background-color:#2f435e;
+    padding:10px;
+}
+
+.titleBox label{
+  color: white;
+  font-size: 150%;
+  margin:0;
+  display:inline-block;
+}
+
+.commentBox {
+    border-top:2px solid #4b5e65;
+}
+.form-inline{
+    background-color:#2f435e;
+    border:15px solid #2f435e;
+
+}
+.commentBox .form-group:first-child, .actionBox .form-group:first-child {
+    width:4%;
+}
+.commentBox .form-group:nth-child(2), .actionBox .form-group:nth-child(2) {
+    width:1%;
+}
+
+
+.commentBox .form-group:nth-child(3), .actionBox .form-group:nth-child(3) {
+    width:80%;
+}
+
+.commentBox .form-group:nth-child(4), .actionBox .form-group:nth-child(4) {
+    width:1%;
+}
+
+
+.commentBox .form-group:nth-child(5), .actionBox .form-group:nth-child(5) {
+    width:14%;
+}
+
+
+
+.actionBox .form-group * {
+    width:100%;
+}
+.taskDescription {
+    margin-top:10px 0;
+}
+.commentList {
+    padding:0;
+    list-style:none;
+    max-height:800px;
+    overflow:auto;
+    background-color:#ececec;
+}
+
+.commentList li {
+    border-radius: 5px;
+    width:98%;
+    margin:0;
+    background-color:#FFFFFF;
+    border:2px solid #4b5e65;
+    margin-top:20px;
+    margin-bottom:20px;
+    color: #000000;
+}
+
+.commentList li > div {
+    display:table-cell;
+}
+
+.commenterImage {
+    margin-top:15px;
+    width:60px;
+    margin-right:15px;
+    margin-left:15px;
+    height:100%;
+    float:left;
+}
+
+.previmg{
+    height:4%;
+}
+.commenterImage img {
+    width:100%;
+
+}
+.commentText p {
+    margin-top:15px;
+    margin-bottom:0px;
+    font-size: 125%;
+        color: #000000;
+}
+.sub-text {
+    color:#4b5e65;
+    font-family:verdana;
+    font-size: 75%;
+}
+.actionBox {
+    border-top:2px solid #4b5e65;
+    padding:10px;
+}
+
+
+.btn.btnreply{
+        margin-top:20px;
+  background-color: #44566c;
+    font-weight: 400;
+    font-size: 100%;
+    color: #FFFFFF;
+    padding: 1px 6px;
+margin-bottom:15px;
+}
+
+
+.btn.btnreply:hover{
+  background-color: #EA991D;
+color: #FFFFFF;
+}
+
+.btn.btndelete{
+        margin-top:20px;
+  background-color: #44566c;
+    font-weight: 400;
+    font-size: 100%;
+    color: #FFFFFF;
+    padding: 1px 6px;
+margin-bottom:15px;
+}
+
+
+.btn.btndelete:hover{
+  background-color: #b82b21;
+color: #FFFFFF;
+}

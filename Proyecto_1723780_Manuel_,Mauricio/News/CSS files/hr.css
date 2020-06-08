@@ -1,0 +1,30 @@
+
+/* Large rounded green border */
+hr.titlehr {
+  border-radius: 5px;
+  width:75%;
+}
+
+/* Large rounded green border */
+hr.new6 {
+  width:100%;
+    padding: 0px;
+    margin: 0px;  
+}
+
+
+/* Large rounded green border */
+hr.menuhr {
+  width:80%;
+    padding: 0px;
+    margin: 0px;  
+    margin: auto;
+}
+
+hr.menuhrx {
+  width:80%;
+    padding: 0px;
+    margin: 0px;  
+    margin: auto;
+}
+

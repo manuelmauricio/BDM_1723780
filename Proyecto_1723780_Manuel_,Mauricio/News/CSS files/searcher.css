@@ -1,0 +1,75 @@
+
+
+.labelform{
+    color: #201b22;
+ margin-top: 2%;
+margin-bottom: 0%;
+font-weight: 600;
+font-size: 110%;
+}
+
+.text-muted{
+    color: #201b22;
+ margin-top: 0%;
+margin-bottom: 1%;
+font-weight: 600;
+font-size: 85%;
+
+}
+
+
+.form-row{
+ margin-top: 0%;
+margin-bottom: 0%;
+}
+
+
+/* Style the input container */
+.input-container {
+  display: flex;
+  width: 100%;
+  margin-bottom: 1px;
+}
+
+/* Style the form icons */
+.icon {
+  padding: 10px;
+  background: #44566c;
+  color: white;
+  min-width: 50px;
+  text-align: center;
+  border-radius: 0.0rem;
+  font-size: 100%;
+}
+
+/* Style the input fields */
+.input-field {
+  width: 100%;
+  outline: none;
+
+}
+
+
+
+.form-group .form-groupx{
+      margin-top: 1%;
+
+}
+
+
+
+.fa .fx{
+  color:white;
+  font-size:27px;
+  margin-left:8px;
+}
+
+
+
+
+.form-control{
+color: #000000;
+font-weight: 600;
+font-size: 100%;
+  border-radius: 0.1rem;
+}
